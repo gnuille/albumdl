@@ -14,8 +14,10 @@ youtube.search(process.argv[2],1,function(error, result){
           return console.log(err);
       }
 
-      var obj = JSON.parse(fs.readFileSync('phraseFreqs.json', 'utf8'));
-      console.log(obj.items[0].id.videoId);
+      let obj = JSON.parse(fs.readFileSync('phraseFreqs.json', 'utf8'));
+      let link = "https://www.youtube.com/watch?v="+obj.items[0].id.videoId;
+      let exec = require('child_process').exec;
+      exec("youtube-dl -q -x --audio-format mp3 "+ link);
 
     });
   }
