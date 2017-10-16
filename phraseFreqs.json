@@ -1,43 +1,334 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ZrFnkcoKssIBPCVfe0iPX_QGOgA\"",
-  "nextPageToken": "CAEQAA",
+  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/cvjbaLsA3qDAkgwgbTJzXs9YL_A\"",
+  "nextPageToken": "CAoQAA",
   "regionCode": "ES",
   "pageInfo": {
-    "totalResults": 1000000,
-    "resultsPerPage": 1
+    "totalResults": 8013,
+    "resultsPerPage": 10
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/QFztTjdhWiq2q0xzFDOctfF-cXM\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/nOKpr-_5qakBOQLBumSzVesj0pc\"",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "CSvFpBOe8eY"
+        "kind": "youtube#playlist",
+        "playlistId": "PLCQNxPV-JejoYjB2-47m49Nw6FTkdNIl4"
       },
       "snippet": {
-        "publishedAt": "2009-10-03T04:45:02.000Z",
-        "channelId": "UCvtZDkeFxMkRTNqfqXtxxkw",
-        "title": "System Of A Down - Chop Suey!",
-        "description": "System of a Down's official music video for 'Chop Suey!'. Click to listen to System of a Down on Spotify: http://smarturl.it/SystemSpotify?IQid=SystemCS As ...",
+        "publishedAt": "2015-12-30T13:31:21.000Z",
+        "channelId": "UCLrApKIT4XCAoLl41LjrHWg",
+        "title": "Guns N' Roses | Appetite For Destruction [Full Album]",
+        "description": "LINKS For Guns N' Roses. YOUTUBE: http://bit.ly/1mT8Xe8 ITUNES: http://apple.co/1YPSUPt GOOGLEPLAY: http://bit.ly/1BAFThI WEBSITE: ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/default.jpg",
+            "url": "https://i.ytimg.com/vi/MaayIy3VB6s/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MaayIy3VB6s/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CSvFpBOe8eY/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/MaayIy3VB6s/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "systemofadownVEVO",
+        "channelTitle": "Jake Edwards",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/wGT1RtuQPEZzesZ9QWnv19rzGGU\"",
+      "id": {
+        "kind": "youtube#channel",
+        "channelId": "UCSLbbBoUqpin6BE34whSOvA"
+      },
+      "snippet": {
+        "publishedAt": "2013-08-30T09:08:04.000Z",
+        "channelId": "UCSLbbBoUqpin6BE34whSOvA",
+        "title": "Guns N' Roses - Topic",
+        "description": "Guns N' Roses, often abbreviated as GNR, is an American hard rock band from Los Angeles and formed in 1985. The lineup, when first signed to Geffen ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/i/SLbbBoUqpin6BE34whSOvA/1.jpg"
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/i/SLbbBoUqpin6BE34whSOvA/mq1.jpg"
+          },
+          "high": {
+            "url": "https://i.ytimg.com/i/SLbbBoUqpin6BE34whSOvA/hq1.jpg"
+          }
+        },
+        "channelTitle": "Guns N' Roses - Topic",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ba_MNLoDPRDGasCvS0hk2s6X2LA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "9Xmgd6-KVfA"
+      },
+      "snippet": {
+        "publishedAt": "2017-09-22T15:50:54.000Z",
+        "channelId": "UCa2rDoMf5nFGvemBAV1Uf3g",
+        "title": "Use Your Illusion I  guns n' roses full album",
+        "description": "Use Your Illusion I 1)Right Next Door to Hell 00:00 2)Dust N' Bones 03:01 3)Live and Let Die 08:00 4)Don't Cry 11:04 5)Perfect Crime 15:44 6)You Ain't the First ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/9Xmgd6-KVfA/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/9Xmgd6-KVfA/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/9Xmgd6-KVfA/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "full albums",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/d7_9RP1S95hK_CfnM3NtbGj8g14\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "1TnL-LJKWE0"
+      },
+      "snippet": {
+        "publishedAt": "2008-08-14T01:10:00.000Z",
+        "channelId": "UCGakA_bPvKpwq3iHDpZEuUg",
+        "title": "Rocket Queen Appetite For Destruction Guns 'N' Roses",
+        "description": "Copyright 1987 Geffen Taken From Wikipedia \"Rocket Queen\" is the last song on Appetite for Destruction, the debut album from hard rock band Guns N' Roses.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/1TnL-LJKWE0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/1TnL-LJKWE0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/1TnL-LJKWE0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "TheSevenSeasOfRye",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/pzDWXQZ4P7UVO9ILVA34w1IDnGE\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "s9B7hgSztA0"
+      },
+      "snippet": {
+        "publishedAt": "2009-06-29T02:24:50.000Z",
+        "channelId": "UCsryTXP5bjP8AJ5ht6QLIYw",
+        "title": "Guns N' Roses-One In A Million w/Lyrics",
+        "description": "1,2,1,2,3,4 [Whistle] Guess I needed sometime to get away I needed some piece of mind Some piece of mind that'll stay So I thumbed it down to Sixth and L.A. ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/s9B7hgSztA0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/s9B7hgSztA0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/s9B7hgSztA0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "UnOfficialGNR",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Y3ma0oXgrFYNugjGs0vTj2y39I4\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "EJC-GLukTYI"
+      },
+      "snippet": {
+        "publishedAt": "2011-01-20T17:05:56.000Z",
+        "channelId": "UCjXp8wWHxBcpGhN4FCrVtzQ",
+        "title": "Guns N' Roses - You' re Crazy  - Lyrics",
+        "description": "Album: GN'R Lies Year: 1989 Lyrics: Ow! I've been lookin' for a trace Lookin' for a heart, Lookin' for a lover in a world That's much too dark Because you don't ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/EJC-GLukTYI/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/EJC-GLukTYI/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/EJC-GLukTYI/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "97AsV",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/x-1TreZzu_M5rv5wRoy6ys8s1-A\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "JGZnIBwe4_Y"
+      },
+      "snippet": {
+        "publishedAt": "2010-06-13T14:30:16.000Z",
+        "channelId": "UCQVwkZAcDmMI4d9v_qfiWWg",
+        "title": "Guns N' Roses - Double Talkin' Jive",
+        "description": "Album - Use Your Illusion 1.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/JGZnIBwe4_Y/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/JGZnIBwe4_Y/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/JGZnIBwe4_Y/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Sinceube",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/T7yE5kx17lUfWI3yYQI3My0rv7Y\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "HR_ONjZD9A0"
+      },
+      "snippet": {
+        "publishedAt": "2006-06-07T14:20:04.000Z",
+        "channelId": "UCx4JEOqsZebjezEL5f8DSwA",
+        "title": "Guns n' Roses \"it's so easy\" (original version uncensored)",
+        "description": "Videoclip antiguo de los principios d este gran grupo.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/HR_ONjZD9A0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/HR_ONjZD9A0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/HR_ONjZD9A0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "aNaJaWeR",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/-dLLp5mbhPML-SRqKRl47QIDVsw\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "P9hdZmaYIT0"
+      },
+      "snippet": {
+        "publishedAt": "2007-05-15T13:44:05.000Z",
+        "channelId": "UCkXIY0bzuNiNC9pnHQHDLqQ",
+        "title": "Guns N' Roses - Rocket Queen",
+        "description": "Music Video.",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/P9hdZmaYIT0/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/P9hdZmaYIT0/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/P9hdZmaYIT0/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "slaash1991",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/sLgxRQ-gu9jnf9tyO3ZXFE-3lXQ\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "3tOI1c8gPCU"
+      },
+      "snippet": {
+        "publishedAt": "2011-12-23T13:30:51.000Z",
+        "channelId": "UCW_LGcfGPQgKBqMDnVqsYSg",
+        "title": "Guns N' Roses - One In A Million [HD, Lyrics]",
+        "description": "Artist: Guns N' Roses Song: One In A Million Please suggest songs for which you want a quality lyrics video uploaded. Yes I needed some time to get away I ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/3tOI1c8gPCU/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/3tOI1c8gPCU/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/3tOI1c8gPCU/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "OffThePlanetLyrics",
         "liveBroadcastContent": "none"
       }
     }
