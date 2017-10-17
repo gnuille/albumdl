@@ -1,340 +1,334 @@
 {
   "kind": "youtube#searchListResponse",
-  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/6tiymI5FMJiMPMoRk4UsWspfAKE\"",
+  "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/vjuzSpq8m7EINZEEhegF4xUE2a0\"",
   "nextPageToken": "CAoQAA",
   "regionCode": "ES",
   "pageInfo": {
-    "totalResults": 968514,
+    "totalResults": 36,
     "resultsPerPage": 10
   },
   "items": [
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/q8xXcDEb3MP1KUTPQmKo8i1HDcY\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/L8cqDGpLpUUbbrFaG684mDtvUNs\"",
       "id": {
-        "kind": "youtube#video",
-        "videoId": "ZwFKdt7XAU8"
+        "kind": "youtube#channel",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ"
       },
       "snippet": {
-        "publishedAt": "2017-08-30T02:27:07.000Z",
-        "channelId": "UCtl9wKqUa93ACnxKnKbWoyQ",
-        "title": "Pipo Alexelcapo Song Audio",
-        "description": "Esto no es con propositos de molestar a nadie se me ocurrio esta idea y queria subirla, espero que les guste y suscribanse.",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/ZwFKdt7XAU8/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/ZwFKdt7XAU8/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/ZwFKdt7XAU8/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "El MauriG",
-        "liveBroadcastContent": "none"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/kyzGJISZ5Hv1Z0FsZ8r1LdgKhwU\"",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "aJ7Tv6ukASw"
-      },
-      "snippet": {
-        "publishedAt": "2017-08-04T00:25:12.000Z",
-        "channelId": "UC-v9xT2Jj3lrksEVROUA8NQ",
-        "title": "La Leyenda del Perro Pipo Gambino -Alexelcapo- (Mini YTPMV)",
-        "description": "Canción Original: Childish Gambino - Redbone Video Original: https://youtu.be/e4pr2VlS0sk Canal Alexelcapo: ...",
-        "thumbnails": {
-          "default": {
-            "url": "https://i.ytimg.com/vi/aJ7Tv6ukASw/default.jpg",
-            "width": 120,
-            "height": 90
-          },
-          "medium": {
-            "url": "https://i.ytimg.com/vi/aJ7Tv6ukASw/mqdefault.jpg",
-            "width": 320,
-            "height": 180
-          },
-          "high": {
-            "url": "https://i.ytimg.com/vi/aJ7Tv6ukASw/hqdefault.jpg",
-            "width": 480,
-            "height": 360
-          }
-        },
-        "channelTitle": "Maskter",
-        "liveBroadcastContent": "none"
-      }
-    },
-    {
-      "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/IkE133iqUWcxGBSTh02ywIxEcRU\"",
-      "id": {
-        "kind": "youtube#video",
-        "videoId": "J4nvxC-L-cU"
-      },
-      "snippet": {
-        "publishedAt": "2016-12-28T15:16:51.000Z",
-        "channelId": "UCpOUx4NJ7Sv6C6DmVNYV1TA",
-        "title": "Doraemon Riruru & pipo's song",
+        "publishedAt": "2015-04-30T13:17:28.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Projecte Zapato y Cordón",
         "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/J4nvxC-L-cU/default.jpg",
-            "width": 120,
-            "height": 90
+            "url": "https://yt3.ggpht.com/-3RK4SyBCgkc/AAAAAAAAAAI/AAAAAAAAAAA/1sYIPN9xpbc/s88-c-k-no-mo-rj-c0xffffff/photo.jpg"
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/J4nvxC-L-cU/mqdefault.jpg",
-            "width": 320,
-            "height": 180
+            "url": "https://yt3.ggpht.com/-3RK4SyBCgkc/AAAAAAAAAAI/AAAAAAAAAAA/1sYIPN9xpbc/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/J4nvxC-L-cU/hqdefault.jpg",
-            "width": 480,
-            "height": 360
+            "url": "https://yt3.ggpht.com/-3RK4SyBCgkc/AAAAAAAAAAI/AAAAAAAAAAA/1sYIPN9xpbc/s240-c-k-no-mo-rj-c0xffffff/photo.jpg"
           }
         },
-        "channelTitle": "Rupok",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/Axn2dFxQ49KpUy8ObSZlMM-iVhw\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/8btA1jJoUGZwPel4198i4b6cl2g\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "p1IChTz5PIU"
+        "videoId": "z0JBuNVoW6I"
       },
       "snippet": {
-        "publishedAt": "2017-08-23T19:38:33.000Z",
-        "channelId": "UCRaP5JUCmGXd6uddF8y-Lpw",
-        "title": "LA CANCIÓN DE PIPO | Alexelcapo (Cover)",
-        "description": "LA CANCIÓN DE PIPO (Contigo Pipo) | Alexelcapo (Cover) Vamos a ver... Esto es un meme, y como tal, está justificado La canción original (o montaje) está ...",
+        "publishedAt": "2015-11-23T00:54:13.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón - You Can't Hide",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/p1IChTz5PIU/default.jpg",
+            "url": "https://i.ytimg.com/vi/z0JBuNVoW6I/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/p1IChTz5PIU/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/z0JBuNVoW6I/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/p1IChTz5PIU/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/z0JBuNVoW6I/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Riglock",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/JTxFPPxK8FoIvKpGYKOstKiHXMw\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/jTm7gykBLgRxNSVwT3NwZ8g_RSc\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "QiPI2M_KBQg"
+        "videoId": "8j0nupTHtBE"
       },
       "snippet": {
-        "publishedAt": "2014-02-12T11:25:15.000Z",
-        "channelId": "UCjO1rcfSP4uFuY3rohfSUPw",
-        "title": "pipo-Kmean Nak Jouy Joot Teok Pnaek",
-        "description": "Love song for Everyday.",
+        "publishedAt": "2017-03-01T12:02:10.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón | Efecte Papallona (Videoclip)",
+        "description": "No estamos contra nada ni nadie, sino con todos y para el bien de todos... :-)” Hipótico Yrigoyen Instrumental de Mickey Bingo (Vinnie Paz - God Bless) ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/QiPI2M_KBQg/default.jpg",
+            "url": "https://i.ytimg.com/vi/8j0nupTHtBE/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/QiPI2M_KBQg/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8j0nupTHtBE/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/QiPI2M_KBQg/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/8j0nupTHtBE/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "pipo chhouk",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/y8U8FANmKeF7cIdEfCAPTGtIkmQ\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/bzAqc1lUx2nrS35iMzqgYS3Ikv4\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "xd12hR68sWM"
+        "videoId": "l8si0sE-Ni4"
       },
       "snippet": {
-        "publishedAt": "2009-05-23T01:23:53.000Z",
-        "channelId": "UCyKa1YNZLio6XfjMR7fw45Q",
-        "title": "Nuki Nuki (The Nuki Song) Full Version Gummy Bear",
-        "description": "Nuki Nuki (The Nuki Song) music video by Gummibär aka Osito Gominola, Ursinho Gummy, Gumimaci, Funny Bear, The Gummy Bear, etc. From the album La ...",
+        "publishedAt": "2017-01-29T20:34:45.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón | Gordo [Remake]",
+        "description": "Cal riure's d'un mateix, cal trencar tots els complexes així que aquí tenim un altre tema amb humor, satira i molta locura. Des de que ZyC va començar volíem fer ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/xd12hR68sWM/default.jpg",
+            "url": "https://i.ytimg.com/vi/l8si0sE-Ni4/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/xd12hR68sWM/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l8si0sE-Ni4/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/xd12hR68sWM/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/l8si0sE-Ni4/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "The Official Gummibär Channel",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/KjArXteptOlAyuXhJ0k_N2_kLBU\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/47n3mVuNzVJMYhT6177r07Gp-H4\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "RBEGTVctrdw"
+        "videoId": "qnypcEJNSkk"
       },
       "snippet": {
-        "publishedAt": "2017-09-05T15:51:27.000Z",
-        "channelId": "UCuf_ILI1n89onfbO5w5pL9Q",
-        "title": "PIPO SONG ft Alexelcapo",
-        "description": "https://www.youtube.com/watch?v=e4pr2VlS0sk DIRECTO DE ALEXELCAPO Mi versión de la canción de Pipo :) @xWillyLoL Instagram y Twitter.",
+        "publishedAt": "2017-09-27T23:11:09.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón | Terra Lliure",
+        "description": "Fart de hippisme i cançons ortopèdiques pacifistes? Ets més de Jaume I i vols que tornin els almogàvers? Vols tenir un tema per posar en repeat i començar ...",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/RBEGTVctrdw/default.jpg",
+            "url": "https://i.ytimg.com/vi/qnypcEJNSkk/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/RBEGTVctrdw/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qnypcEJNSkk/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/RBEGTVctrdw/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/qnypcEJNSkk/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Guillermo  Garcia",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/6yqb_CITVy2NYICoAtVAOnXlrWk\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/e1LhhKbNG0ub2zcKpKphwq1Pk9w\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "DRwo53xGze8"
+        "videoId": "oLvD0vzg8zM"
       },
       "snippet": {
-        "publishedAt": "2016-05-15T06:42:10.000Z",
-        "channelId": "UC6ET2ccI19eL9PZ8z1akhrw",
-        "title": "Doraemon song, Amu to Emu no Uta [ Lyrics ]",
-        "description": "Doraemon Doraemon in Nobita and the steel troops Amu to Emu no Uta Song of Amu and Emu.",
+        "publishedAt": "2015-12-31T08:08:07.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón | Sant Gulag (amb Calcetín)",
+        "description": "En especial dedicació a la nostra ciutat i capital del Vallès Occidental: Sant Cugat AKA Sant Gulag. Amb la colaboració de Calcetín.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/DRwo53xGze8/default.jpg",
+            "url": "https://i.ytimg.com/vi/oLvD0vzg8zM/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/DRwo53xGze8/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oLvD0vzg8zM/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/DRwo53xGze8/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/oLvD0vzg8zM/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Everlasting wind",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/jZHNQXhruCzYgDKANZLIWjS0pE8\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/oQz99eIkzurGgdzXB2mh9bnU0oI\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "CS9OO0S5w2k"
+        "videoId": "T-umvoFalLw"
       },
       "snippet": {
-        "publishedAt": "2008-09-22T12:01:32.000Z",
-        "channelId": "UCeWkruiHm7NL7OvjPyVshkw",
-        "title": "Village People - YMCA OFFICIAL Music Video 1978",
-        "description": "«Village People - Y.M.C.A. » is available on iTunes : http://bit.ly/1Lb1goA Listen the entire album here : http://smarturl.it/YMCAalbum Subscribe to Village People ...",
+        "publishedAt": "2015-04-30T14:54:50.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón - Birras y casales",
+        "description": "",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/CS9OO0S5w2k/default.jpg",
+            "url": "https://i.ytimg.com/vi/T-umvoFalLw/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/CS9OO0S5w2k/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T-umvoFalLw/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/CS9OO0S5w2k/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/T-umvoFalLw/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "Village People",
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     },
     {
       "kind": "youtube#searchResult",
-      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/AfFgCUJC8edlpT3n4yd5c8zWfNc\"",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/ODFmvgMRAZMQOAATY6QwXIj7AV8\"",
       "id": {
         "kind": "youtube#video",
-        "videoId": "GkVcgbvNoK0"
+        "videoId": "EJTL857c1EU"
       },
       "snippet": {
-        "publishedAt": "2016-10-23T06:45:35.000Z",
-        "channelId": "UC9DRLwnh_9CXw3eesaOk1GQ",
-        "title": "Just Dance 2017 - PoPiPo",
-        "description": "Jogo: Just Dance 2017 Plataforma: Wii U --------------------------------------------- Twitter: @arthurfelipebr Instagram: @arthurfelipebr Facebook: ...",
+        "publishedAt": "2015-09-29T19:29:25.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón - 20 anys",
+        "description": "Cançó dedicada als 20 anys de lluita juvenil a Sant Cugat.",
         "thumbnails": {
           "default": {
-            "url": "https://i.ytimg.com/vi/GkVcgbvNoK0/default.jpg",
+            "url": "https://i.ytimg.com/vi/EJTL857c1EU/default.jpg",
             "width": 120,
             "height": 90
           },
           "medium": {
-            "url": "https://i.ytimg.com/vi/GkVcgbvNoK0/mqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EJTL857c1EU/mqdefault.jpg",
             "width": 320,
             "height": 180
           },
           "high": {
-            "url": "https://i.ytimg.com/vi/GkVcgbvNoK0/hqdefault.jpg",
+            "url": "https://i.ytimg.com/vi/EJTL857c1EU/hqdefault.jpg",
             "width": 480,
             "height": 360
           }
         },
-        "channelTitle": "ArthurVideoSong",
+        "channelTitle": "Projecte Zapato y Cordón",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/OT327BF6HsNxlDccOX4r0RPS538\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "Cj62wSvHB_c"
+      },
+      "snippet": {
+        "publishedAt": "2015-03-23T20:26:04.000Z",
+        "channelId": "UCZ2Rtd5OBX11vvH38qnPYbw",
+        "title": "Som 20 anys - Zapato y Cordón",
+        "description": "Rap combatiu de la mà del Miqui i l'Staro d'Arran Sant Cugat durant l'acte de commemoració dels 20 anys de lluita juvenil a Sant Cugat. SOM VINT ANYS Som ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/Cj62wSvHB_c/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/Cj62wSvHB_c/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/Cj62wSvHB_c/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "ARRAN Sant Cugat",
+        "liveBroadcastContent": "none"
+      }
+    },
+    {
+      "kind": "youtube#searchResult",
+      "etag": "\"cbz3lIQ2N25AfwNr-BdxUVxJ_QY/TUF9GlnnDs59H1PXGBv4NafPiJA\"",
+      "id": {
+        "kind": "youtube#video",
+        "videoId": "MQpJD-8ipEw"
+      },
+      "snippet": {
+        "publishedAt": "2016-06-06T15:29:31.000Z",
+        "channelId": "UClK69ZZ0BuriJcvL2ib-yLQ",
+        "title": "Zapato y Cordón - Castilla, dos pasos al frente #‎SomDiàspora‬",
+        "description": "Hacia tiempo que teníamos ganas de sacar este tema por que siempre hablamos de Euskal Herria , Països Catalans o incluso Galiza pero esta bien recordar ...",
+        "thumbnails": {
+          "default": {
+            "url": "https://i.ytimg.com/vi/MQpJD-8ipEw/default.jpg",
+            "width": 120,
+            "height": 90
+          },
+          "medium": {
+            "url": "https://i.ytimg.com/vi/MQpJD-8ipEw/mqdefault.jpg",
+            "width": 320,
+            "height": 180
+          },
+          "high": {
+            "url": "https://i.ytimg.com/vi/MQpJD-8ipEw/hqdefault.jpg",
+            "width": 480,
+            "height": 360
+          }
+        },
+        "channelTitle": "Projecte Zapato y Cordón",
         "liveBroadcastContent": "none"
       }
     }
