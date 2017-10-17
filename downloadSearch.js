@@ -18,12 +18,16 @@ youtube.search(process.argv[2],10,function(error, result){
       let obj = JSON.parse(fs.readFileSync('./tmp/searchResult.json', 'utf8'));
       while(i<10 && !found){
         let tipo = obj.items[i].id.kind;
-        if(tipo == "youtube#video"){
+        if(tipo == "youtube#video"){ //first video found
           found = true;
-          let link = "https://www.youtube.com/watch?v="+obj.items[i].id.videoId;
-          console.log(link);
-          let exec = require('child_process').exec;
-          exec("youtube-dl -q -o \"./songs/"+process.argv[2]+".%(mp3)s\" -x --audio-format mp3 "+ link);
+          let link = "https://www.youtube.com/watch?v="+obj.items[i].id.videoId; //calculate the link
+
+
+          var songname = process.argv[3];
+          if(songname == undefined) songname =  process.argv[2]; //filename
+
+          let exec = require('child_process').exec;             //execute download
+          exec("youtube-dl -q -o \"./album/"+songname+".%(mp3)s\" -x --audio-format mp3 "+ link);
         }else i++;
       }
     }

@@ -18,23 +18,23 @@ musicAPI.searchAlbum('netease', {
 
 function download(res)
 {
-  
+
   var s = "Album name: "+res.name+"\n"+"Artist: " + res.artist.name +"\n";
 
   for(let i = 0; i < res.songList.length; ++i){
     s+="Track "+(i+1)+": "+res.songList[i].name +" "+res.artist.name+"\n";
 
-    getSong(res.songList[i].name, res.artist.name);
+    getSong(res.songList[i].name, res.artist.name, i+1);
   }
-  fs.writeFile("./tmp/albuminfo.txt",s, function(err) {
+  fs.writeFile("./album/albuminfo.txt",s, function(err) {
     if(err) {
       return console.log(err);
     }
   });
 }
 
-function getSong(name, artist){
-  console.log("Query: node downloadSearch2 \""+name+" "+artist+"\"")
+function getSong(name, artist, trackNumber){
+  console.log("Query: node downloadSearch \""+name+" "+artist+"\"")
   let exec = require('child_process').exec;
-  exec("node downloadSearch2 \""+name+" "+artist+"\"");
+  exec("node downloadSearch \""+name+" "+artist+"\" \""+trackNumber+"."+name+"\"");
 }
