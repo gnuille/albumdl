@@ -26,7 +26,7 @@ function download(res)
 
     getSong(res.songList[i].name, res.artist.name);
   }
-  fs.writeFile("albuminfo.txt",s, function(err) {
+  fs.writeFile("./tmp/albuminfo.txt",s, function(err) {
     if(err) {
       return console.log(err);
     }
@@ -34,7 +34,7 @@ function download(res)
 }
 
 function getSong(name, artist){
-  console.log("Query: node downloadSearch \""+name+" "+artist+"\"")
+  console.log("Query: node downloadSearch2 \""+name+" "+artist+"\"")
   let exec = require('child_process').exec;
-  exec("node downloadSearch \""+name+" "+artist+"\"");
+  exec("node downloadSearch2 \""+name+" "+artist+"\"");
 }
