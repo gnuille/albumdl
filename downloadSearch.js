@@ -19,6 +19,9 @@ youtube.search(process.argv[2],10,function(error, result){
       while(i<10 && !found){
         let tipo = obj.items[i].id.kind;
         if(tipo == "youtube#video"){ //first video found
+          fs.appendFile('./tmp/queryHistory.txt',obj.items[i].snippet.title+"\n", function (err) {
+              if (err) throw err;
+          });
           found = true;
           let link = "https://www.youtube.com/watch?v="+obj.items[i].id.videoId; //calculate the link
 
