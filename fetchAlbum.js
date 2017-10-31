@@ -1,6 +1,7 @@
 const musicAPI = require('music-api');
 const fs = require("fs");
 
+// OwO what´s this?
 
 musicAPI.searchAlbum('netease', {
   key: process.argv[2],
